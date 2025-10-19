@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Hi 👋, I'm Deekshith kumar A
 👋 Hi, I'm Deekshith Kumar A<br>🎓 Electronics and Communication Engineering <br>💻 I’m currently an Embedded Systems trainee at Emertxe.<br>🚀 Currently Working On Embedded C and Microcontroller-based projects.<br>💾 You can explore all my projects here on GitHub.<br>📩 Reach me at deekshithkumara055@gmail.com<br><br>
 
 
