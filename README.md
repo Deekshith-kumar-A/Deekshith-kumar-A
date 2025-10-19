@@ -1,5 +1,5 @@
 #                  Hi 👋, I'm Deekshith kumar A
-🎓 Electronics and Communication Engineering <br>💻 I’m currently an Embedded Systems Trainee at Emertxe.<br>🚀 Currently Working On Embedded C and Microcontroller-based projects.<br>💾 You can explore all my projects here on GitHub.<br>📄 Resume attached.<br><br>📩 Reach me at deekshithkumara055@gmail.com<br><br>
+🎓 Electronics and Communication Engineering <br>💻 I’m currently an Embedded Systems Trainee at Emertxe.<br>🚀 Currently Working On Embedded C and Microcontroller-based projects.<br>💾 You can explore all my projects here on GitHub.<br>📄 Resume attached.<br>📩 Reach me at deekshithkumara055@gmail.com<br><br>
 
 
 ## 🌐 Socials:
